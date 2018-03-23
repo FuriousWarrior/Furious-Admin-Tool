@@ -13,5 +13,5 @@ pkg install -y bash rsync cdrtools git
 
 ## Usage
 
-To build a custom ISO, run the `build_freebsd_iso` script:
+To build a custom ISO, run the `furious_build` script:
 ./furious_build
